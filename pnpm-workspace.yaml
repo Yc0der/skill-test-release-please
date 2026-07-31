@@ -1,0 +1,7 @@
+managePackageManagerVersions: false
+nodeLinker: hoisted
+
+allowBuilds:
+  esbuild: true
+  sharp: false
+  unrs-resolver: false
